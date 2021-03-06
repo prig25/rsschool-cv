@@ -84,7 +84,7 @@ ___
 
 English language
 ---
-Level A2.\
+Level: A2.\
 *I was on a business trip, I had to communicate in English.*
 
 ___
