@@ -47,7 +47,7 @@ ___
 
 Work experience
 ---
-### 2017 - until now «AviaTechSystems», Minsk
+### 2017 - 2020 «AviaTechSystems», Minsk
 
 **Electronic Engineer:**\
 *Assembly, adjustment and calibration of electronic boards for UAVs, firmware of microcontrollers, assembly and connection of electronic equipment of UAVs, troubleshooting, adjustment of optical equipment, control and maintenance of work of the assembly and assembly department, mechanical and electronic assembly of video tracking systems, system administration enterprise public access networks, video surveillance.*
@@ -70,6 +70,7 @@ Education
 
 **«JavaScript for Beginners»**\
 *Certificate with honors. 100% passed.*
+
 ### 2013 – 2016 Higher education
 
 **«Belarusian State Academy of Communications», Minsk:**\
