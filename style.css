@@ -3,18 +3,13 @@ body {
     color: #494949;
     font-size: 14px;
     line-height: 175%;
-
-    padding-left: 15px;
-    padding-right: 15px;
-    max-width: 1000px;
-    margin: auto;
 }
 .photo_cv {
     display: flex;
     justify-content: space-between;
     padding-top: 4px;
 }
-.wrapper1 {
+.wrapper {
     padding-left: 15px;
     padding-right: 15px;
     max-width: 1000px;
@@ -53,6 +48,11 @@ h3 {
 h4 {
     padding-top: 0px;
     margin-bottom: 0px; 
+}
+details {
+    display: block;    
+    padding-top: 10px;
+    margin-bottom: 20px; 
 }
 p {
     margin: 0px;
