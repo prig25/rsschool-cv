@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <div class="header">
+    <header>
         <div class="wrapper">
             <h2>Gleb P.</h2>
             <hr>
@@ -23,14 +23,17 @@
             <img src="cv_image.png" width="140" height="140" alt="There should be a photo here...">            
         </div>
         </div>
-    </div>
-    <div class="main">
+    </header>
+    <article>    
         <div class="wrapper">
             <hr class="hr">
             <h2>About me</h2>
             <hr>
             <p class="italic">At this point in my life, I decided to learn the JavaScript programming language. First, I took a course on the <a href="https://stepik.org/course/2223/syllabus">Stepik</a> website. After that I signed up for the <a href="https://rs.school/js/">RS School</a> course in 2021. Before I started my programming studies I worked as an electronics engineer. I assembled electronic boards, modules and optical systems for UAVs. I also spent a long time repairing Apple equipment. In general, I was engaged in electronics, mechanics, public networks, assembly of optical-mechanical observation systems, 3D modeling, CNC machines, 3D printing, with different types of composite materials and plastics.</p>
             <hr class="hr">
+        </div>
+    </article>  
+    <div class="wrapper">  
             <h2>Skills</h2>
             <hr>
             <ul class="padlist">
@@ -44,11 +47,15 @@
                 <li>ArtCAM</li>
             </ul>
             <hr class="hr">
+        </div>
+        <div class="wrapper">     
             <h2>Code examples</h2>
             <hr>
             <p><b>Century From Year</b></p>
             <br>
-            <p><i>JavaScript:</i></p>
+            <p><i>JavaScript:</i></p>        
+    <details>
+        <summary class="bold">Spoiler</summary>
             <pre>
                 <code>
     function century(year) {
@@ -56,8 +63,12 @@
         return (Number(str.split('').splice(str.length-2).join('')) == 0 ? Number(str.split('').splice(0,str.length-2).join('')) : Number(str.split('').splice(0,str.length-2).join('')) + 1);
     }
                 </code>
-            </pre>
+            </pre>            
+    </details>
             <hr class="hr">
+        </div>
+    <main>
+        <div class="wrapper">
             <h2>Work experience</h2>
             <hr>
             <h3>2017 - 2020 «AviaTechSystems», Minsk</h3>
@@ -70,6 +81,8 @@
             <p class="bold">Foreman:</p>
             <p class="italic">Repair of iPhones, iPads, MacBooks. Replacement of body parts, repair of screens, repair of motherboards, soldering of BGA chips.</p>
             <hr class="hr">
+        </div>
+        <div class="wrapper">
             <h2>Education</h2>
             <hr>
             <h3>2021 Stepik Online Courses</h3>
@@ -82,17 +95,19 @@
             <p class="bold">«Higher State College of Communications», Minsk:</p>
             <p class="italic">Telecommunications, Technical operation of radio communication systems, radio broadcasting and television, Telecommunications Technician.</p>
             <hr class="hr">
+        </div>
+        <div class="wrapper">
             <h2>English language</h2>
             <hr>
             <h4>Level: A2.</h4>
             <p class="italic">I was on a business trip, I had to communicate in English.</p>
             <hr class="hr">
         </div>
-    </div>
-    <div class="footer">
-        <div class="wrapper">
+    </main>    
+    <footer>
+        <div class="footer">
             <p>© 2021</p>
         </div>
-    </div>
+    </footer>
 </body>
 </html>
