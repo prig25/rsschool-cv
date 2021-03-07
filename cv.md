@@ -7,7 +7,7 @@ Gleb P.
 **Male, 28 years.**\
 **Phone:** [+375 (44) 544-60-68](tel:+375445446068)\
 **Mail:** [5446068@gmail.com](mailto:5446068@gmail.com?subject=rsschool-cv)\
-**Telegram:** [prig25](https://teleg.run/prig25)
+**Telegram:** [prig25](https://teleg.run/prig25)\
 **Place of residence:** [Minsk, Belarus](https://goo.gl/maps/gXur6U5dDNETK4RJ7)
 
 ___
