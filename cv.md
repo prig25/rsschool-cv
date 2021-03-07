@@ -1,12 +1,13 @@
-![There should be a photo here...](https://thumb.cloud.mail.ru/weblink/thumb/xw1/sf8R/NBKHYLYnN?x-email=undefined)
+![There should be a photo here...](https://raw.githubusercontent.com/prig25/rsschool-cv/gh-pages/cv_image.png)
 
 Gleb P.
 ---
 
 *Electronics engineer, wide-profile specialist.*\
 **Male, 28 years.**\
-**Mail:** [click mail link](mailto:5446068@gmail.com?subject=rsschool-cv)\
-**Telegram:** [click telegram link](https://teleg.run/prig25) - preferred communication method\
+**Phone:** [+375 (44) 544-60-68](tel: +375445446068)
+**Mail:** [5446068@gmail.com](mailto:5446068@gmail.com?subject=rsschool-cv)\
+**Telegram:** [prig25](https://teleg.run/prig25)
 **Place of residence:** [Minsk, Belarus](https://goo.gl/maps/gXur6U5dDNETK4RJ7)
 
 ___
