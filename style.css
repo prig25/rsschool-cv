@@ -57,9 +57,6 @@ details {
 p {
     margin: 0px;
 }
-.footer {
-    text-align: center;
-}
 .italic {
     font-style: italic;
 }
@@ -76,7 +73,8 @@ pre {
     color: teal;
     overflow: auto;
 }
-.footer {
+footer {
+    text-align: center;
     padding-top: 10px;
     margin-bottom: 20px;  
 }
